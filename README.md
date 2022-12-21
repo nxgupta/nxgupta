@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Neeraj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi <img src = "https://user-images.githubusercontent.com/69167064/159184379-c03e2be8-c0ec-42f0-9f12-a2728b07c7b9.gif" width = 30px> I'm Neeraj</h1>
+<div align="center"><h3><a href="https://github.com/durgeshrai633/readme-typing-svg" ><img src="https://readme-typing-svg.herokuapp.com?lines=An+Aspiring+Web+Developer+From+India"></a></h3></div>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
-- 🔭 I’m currently working on **E-commerce site**
 
-- 🌱 I’m currently learning **React-Redux**
+- 🔭 I’m currently working on **React sites & more**
+
+- 🌱 I’m currently learning **MERN Development**
 
 - 📫 How to reach me **neerajgupta6525@gmail.com**
 
