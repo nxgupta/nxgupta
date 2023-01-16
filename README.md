@@ -23,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nxgupta&show_icons=true&locale=en&layout=compact" alt="nxgupta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nxgupta&" alt="nxgupta" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nxgupta)](https://git.io/streak-stats)
