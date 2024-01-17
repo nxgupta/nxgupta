@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **React sites & more**
 
-- 🌱 I’m currently learning **MERN Development**
+- 🌱 I’m a **MERN Developer**
 
 - 📫 How to reach me **neerajgupta6525@gmail.com**
 
